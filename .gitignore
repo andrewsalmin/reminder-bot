@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+handlers/__pycache__/
+keyboards/__pycache__/
+middlewares/__pycache__/
+utils/__pycache__/
+venv/
+.env
+app.log
